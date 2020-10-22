@@ -19,7 +19,7 @@ const Title = styled.h1`
 export const Home = (): JSX.Element => (
   <div className="container">
     <Head>
-      <title>Create Next App</title>
+      <title>Next CespDev</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
