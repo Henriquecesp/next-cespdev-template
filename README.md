@@ -45,6 +45,7 @@ Node
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - NextJs
+- Typescript
 - Eslint
 - Prettier
 - StyledComponents
