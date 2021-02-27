@@ -26,7 +26,7 @@ ___
 
 ___
 
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGxqt2gCPSdNg/profile-displaybackgroundimage-shrink_200_800/0?e=1608768000&v=beta&t=_mkH1_HvI5briatYFK9k0uRf2ooml3RJF211ZLVr7DE" width="1200">
+<img src="https://repository-images.githubusercontent.com/306188281/8eaeeb00-698f-11eb-8c78-889cff89401b" width="1200">
 
 ## :information_source: Sobre
 
